@@ -18,6 +18,7 @@ public class Hola {
      */
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "HOLA MI MUNDITO");
+        System.out.println("Hoyyyyyyy");
     }
     
 }
