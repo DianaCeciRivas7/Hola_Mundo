@@ -17,10 +17,10 @@ public class Hola {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, "HOLA MI MUNDITO");
-        System.out.println("Hoyyyyyyy");
-        JOptionPane.showMessageDialog(null, "Alla en la fuente habia un chorrito, se hacia grande se hacia chiquito");
-        System.out.println("Criminalllll cri- criminalllll");
+        for (int i = 0; i < 10; i++) {
+            JOptionPane.showMessageDialog(null, "Presione aceptar para llegar a la opcion "+i+".");
+            
+        }
     }
     
 }
