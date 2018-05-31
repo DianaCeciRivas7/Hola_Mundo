@@ -19,6 +19,7 @@ public class Hola {
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null, "HOLA MI MUNDITO");
         System.out.println("Hoyyyyyyy");
+        JOptionPane.showMessageDialog(null, "Alla en la fuente habia un chorrito, se hacia grande se hacia chiquito");
     }
     
 }
