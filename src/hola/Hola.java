@@ -22,6 +22,8 @@ public class Hola {
             
         }
         JOptionPane.showMessageDialog(null, "Dejate de Forrsss Bryannnn"); 
+        JOptionPane.showMessageDialog(null, "Ella no te ama"); 
+        
     }
    
             
