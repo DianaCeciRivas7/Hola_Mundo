@@ -5,6 +5,8 @@
  */
 package hola;
 
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author user
@@ -15,7 +17,7 @@ public class Hola {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("HOLA MUNDO!!!");
+        JOptionPane.showMessageDialog(null, "HOLA MI MUNDITO");
     }
     
 }
