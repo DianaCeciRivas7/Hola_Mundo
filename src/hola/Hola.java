@@ -21,6 +21,8 @@ public class Hola {
             JOptionPane.showMessageDialog(null, "Presione aceptar para llegar a la opcion "+(i+1)+".");
             
         }
+        JOptionPane.showMessageDialog(null, "Dejate de Forrsss Bryannnn"); 
     }
-    
+   
+            
 }
