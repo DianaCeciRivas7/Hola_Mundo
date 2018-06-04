@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author user
+ * @author BA
  */
 public class Hola {
 
@@ -17,12 +17,7 @@ public class Hola {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        for (int i = 0; i < 10; i++) {
-            JOptionPane.showMessageDialog(null, "Presione aceptar para llegar a la opcion "+(i+1)+".");
-            
-        }
-        JOptionPane.showMessageDialog(null, "Dejate de Forrsss Bryannnn"); 
-        JOptionPane.showMessageDialog(null, "Ella no te ama"); 
+       JOptionPane.showMessageDialog(null, "Ojala que sirva, sino ya la regueeeeeeeee");
         
     }
    
